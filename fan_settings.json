@@ -1,0 +1,106 @@
+{
+  "audio": {
+    "volume": 0.0
+  },
+  "debug": {
+    "culling_padding": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "fill_mode": 0,
+    "frustum_culling": false,
+    "settings_bg_alpha": 0.4740000069141388,
+    "visualize_culling": false
+  },
+  "display": {
+    "custom_resolution": {
+      "x": 1445,
+      "y": 1115
+    },
+    "display_mode": 1,
+    "renderer": 0,
+    "resolution_index": -1,
+    "target_fps": 0,
+    "window_position": {
+      "x": 449,
+      "y": 207
+    }
+  },
+  "keybinds": {
+    "Block Attack": [
+      "Right Click",
+      "Gamepad LB"
+    ],
+    "Drink Potion": [
+      "R",
+      "Gamepad X"
+    ],
+    "Interact": [
+      "E",
+      "Gamepad Y"
+    ],
+    "Light Attack": [
+      "Left Click",
+      "Gamepad RB"
+    ],
+    "Move Back": [
+      "S"
+    ],
+    "Move Forward": [
+      "W"
+    ],
+    "Move Left": [
+      "A",
+      "Gamepad LThumb"
+    ],
+    "Move Right": [
+      "D",
+      "Gamepad LThumb"
+    ],
+    "Move Up": [
+      "Space",
+      "W",
+      "Gamepad A"
+    ],
+    "Recompile Shaders": [
+      "Left Shift + Left Ctrl + R"
+    ],
+    "Toggle Console": [
+      "F3"
+    ],
+    "Toggle Debug Physics": [
+      "Left Ctrl + 5"
+    ],
+    "Toggle Light Buffer": [
+      "Left Ctrl + 4"
+    ],
+    "Toggle Settings": [
+      "Escape",
+      "Gamepad Start"
+    ],
+    "Toggle inventory": [
+      "Tab"
+    ]
+  },
+  "performance": {
+    "show_fps": false,
+    "track_heap": false,
+    "track_opengl_calls": true,
+    "vsync": true
+  },
+  "post_processing": {
+    "bloom": true,
+    "bloom_filter_radius": 0.11299999803304672,
+    "bloom_knee": 0.5210000276565552,
+    "bloom_strength": 0.004999999888241291,
+    "bloom_threshold": 0.4099999964237213,
+    "bloom_tint": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "contrast": 1.0,
+    "exposure": 1.0,
+    "gamma": 1.0
+  }
+}
